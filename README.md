@@ -3,11 +3,13 @@
 
 ## Table of contents
 
-## [chapter-1](../../tree/chapter-1) Chapter 1
-## [chapter-2](../../tree/chapter-2) Chapter 2
-## [chapter-3](../../tree/chapter-3) Chapter 3
-## [chapter-4](../../tree/chapter-4#jump-here) Chapter 4 with anchor refernce
-## [Back to TOC](../../tree/chapter-0) Back to first chapter
+## [chapter-0](../../tree/chapter-0) Open chapter
+## [chapter-1](../../tree/chapter-1) Chapter 1 [diff-source](../../compare/chapter-0...chapter-1)
+## [chapter-2](../../tree/chapter-2) Chapter 2 [diff-source](../../compare/chapter-1...chapter-2)
+## [chapter-3](../../tree/chapter-3) Chapter 3 [diff-source](../../compare/chapter-2...chapter-3
+## [chapter-4](../../tree/chapter-4#jump-here) Chapter 4 with anchor refernce [diff-source](../../compare/chapter-3...chapter-4)
+## [chapter-5](../../tree/chapter-4#jump-here) Chapter 5 with anchor refernce [diff-source](../../compare/chapter-4...chapter-5)
+
 
 > Proof of concept TOC to project with change's history
 
@@ -26,7 +28,7 @@ Duis mauris quis wisi. Sed eu enim. Sed nibh. Ut elit consequat magna non orci. 
 
 # Topic
 
-# Chapter 4 with anchor refernce
+# Chapter 5 with anchor refernce
 
 
 
